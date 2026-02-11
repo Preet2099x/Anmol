@@ -1,0 +1,23 @@
+.cinema {
+  background-image: url('../../assets/cinema.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+
+  h1 {
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 60px;
+  }
+
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
+
+}
+
